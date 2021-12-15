@@ -2,6 +2,7 @@
 
 ## Overview
 The purpose of this analysis is to understand the NYC Citi Bike clientele to see if setting up a bikesharing company in Des Moines, Iowa would be profitable.
+[Tableau Analysis](https://public.tableau.com/app/profile/jessica.zimmerman/viz/Module14Challenge_16394162012360/NYCCitiBikeAnalysis)
 
 ## Results
 Below, are some conclusions drawn from this analysis.
@@ -16,7 +17,7 @@ Males ride Citi Bikes significantly more than females.
 Peak hours for riding in August were 7-8AM and 5-6PM.
 
 ![peaktime](https://user-images.githubusercontent.com/88340176/146202419-b7a712f7-c892-4dc0-9393-eb03e33324d1.PNG)
-5-6PM is the peak riding time.
+The peak riding time is 5-6PM.
 
 ![peaktime2](https://user-images.githubusercontent.com/88340176/146202427-a8445bc7-cb44-46ee-a7a5-9ecb0283851b.PNG)
 Males ride mainly during weekdays and the peak riding times are 7-9AM and 5-7PM, which is typically the times people arrive and leave work.
